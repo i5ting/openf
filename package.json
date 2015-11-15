@@ -1,6 +1,6 @@
 {
   "name": "openf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "preferGlobal": "true",
   "bin": {
     "o": "index.js",
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/i5ting/subl-for-mac",
   "dependencies": {
-    "uname2": "^1.0.1"
+    "uname2": "^1.0.2"
   }
 }
