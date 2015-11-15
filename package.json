@@ -1,12 +1,12 @@
 {
-  "name": "subl",
+  "name": "openf",
   "version": "1.0.2",
   "preferGlobal": "true",
   "bin": {
     "o": "index.js",
     "openf": "index.js"
   },
-  "description": "alias subl=\\''/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'\\'",
+  "description": "open in folder",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",
