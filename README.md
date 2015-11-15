@@ -1,6 +1,6 @@
 # openf
 
-openf是一个支持mac和ubuntu的，从终端内打开某些目录非常好用，
+openf是一个支持mac和ubuntu的，从终端内打开某些目录非常好用
 
 Artwork by [i5ting](http://www.github.com/i5ting/).
 
