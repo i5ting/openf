@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 var uname2 = require('uname2')
 var child_process = require('child_process');
-var cmd = 'natilus';
+var cmd = 'nautilus';
 
 var argv = process.argv;
 argv.shift();
@@ -15,7 +15,7 @@ var ubuntu_re=/ubuntu/i;
 var mac_re=/darwin/i;
 if(ubuntu_re.test(v)){
   console.log('os =  ubuntu');
-  cmd = 'natilus';
+  cmd = 'nautilus';
   
   if(argv.length == 0){
     argv.push('-w');
